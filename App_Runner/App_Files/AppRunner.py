@@ -62,7 +62,7 @@ if os.path.isfile('save.txt'):
 root = Tk()
 root.geometry('500x600')
 root.title("App Runner")
-root.iconbitmap('C:/Python_Projects/App_Runner/App_Files/App_Icon.ico')
+# root.iconbitmap('C:/Python_Projects/App_Runner/App_Files/App_Icon.ico')
 
 main_color = '#1e5a8f'
 
